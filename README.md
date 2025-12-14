@@ -22,6 +22,7 @@
 <br>
 
 <!-- FEATURE 2: DASHBOARD COMMAND CENTER -->
+<!-- Background kartu gradasi gelap (Hitam ke Hijau Dalam) -->
 <div align="center">
   
   <!-- GLITCH TEXT TITLE -->
@@ -29,7 +30,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=500&size=35&duration=2000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=📊+COMMAND+CENTER+📊" alt="Glitch Text" />
   </a>
 
-  <!-- Stats & Top Langs (Dark Green Gradient Background) -->
+  <!-- Stats & Top Langs -->
   <a href="https://github.com/AnandaHariadi">
     <img src="https://github-readme-stats.vercel.app/api?username=AnandaHariadi&show_icons=true&count_private=true&include_all_commits=true&bg_color=10,000000,003300,001a00&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=003300&hide_border=false" height="180" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaHariadi&layout=compact&bg_color=10,000000,003300,001a00&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=003300&hide_border=false&langs_count=6" height="180" />
@@ -73,14 +74,14 @@
   <img src="https://img.shields.io/badge/PHP-BACK?style=for-the-badge&logo=php&logoColor=00ff41&color=050505&labelColor=002200" />
   <br><br>
 
-  <!-- WEB FRAMEWORKS -->
-  <img src="https://img.shields.io/badge/NEXT.JS-STACK?style=for-the-badge&logo=next.js&logoColor=00ff41&color=000000&labelColor=003300" />
-  <img src="https://img.shields.io/badge/NODE.JS-SERVER?style=for-the-badge&logo=node.js&logoColor=00ff41&color=000000&labelColor=003300" />
-  <img src="https://img.shields.io/badge/LARAVEL-PHP?style=for-the-badge&logo=laravel&logoColor=00ff41&color=000000&labelColor=003300" />
-  <img src="https://img.shields.io/badge/TAILWIND-CSS?style=for-the-badge&logo=tailwind-css&logoColor=00ff41&color=000000&labelColor=003300" />
+  <!-- WEB FRAMEWORKS (Black/Purple Accent for contrast) -->
+  <img src="https://img.shields.io/badge/NEXT.JS-STACK?style=for-the-badge&logo=next.js&logoColor=b085f5&color=000000&labelColor=1a0033" />
+  <img src="https://img.shields.io/badge/NODE.JS-SERVER?style=for-the-badge&logo=node.js&logoColor=b085f5&color=000000&labelColor=1a0033" />
+  <img src="https://img.shields.io/badge/LARAVEL-PHP?style=for-the-badge&logo=laravel&logoColor=b085f5&color=000000&labelColor=1a0033" />
+  <img src="https://img.shields.io/badge/TAILWIND-CSS?style=for-the-badge&logo=tailwind-css&logoColor=b085f5&color=000000&labelColor=1a0033" />
   <br><br>
 
-  <!-- AI & ROBOTICS -->
+  <!-- AI & ROBOTICS (Black/Green Accent) -->
   <img src="https://img.shields.io/badge/TENSORFLOW-ML?style=for-the-badge&logo=tensorflow&logoColor=ffffff&color=003300" />
   <img src="https://img.shields.io/badge/NUMPY-DATA?style=for-the-badge&logo=numpy&logoColor=ffffff&color=003300" />
   <img src="https://img.shields.io/badge/ARDUINO-IOT?style=for-the-badge&logo=arduino&logoColor=ffffff&color=003300" />
@@ -88,11 +89,11 @@
   <img src="https://img.shields.io/badge/ORACLE-DB?style=for-the-badge&logo=oracle&logoColor=ffffff&color=003300" />
   <br><br>
 
-  <!-- DESIGN & TOOLS -->
-  <img src="https://img.shields.io/badge/BLENDER-3D?style=for-the-badge&logo=blender&logoColor=ffffff&color=1a1a1a" />
-  <img src="https://img.shields.io/badge/PHOTOSHOP-EDIT?style=for-the-badge&logo=adobe%20photoshop&logoColor=ffffff&color=1a1a1a" />
-  <img src="https://img.shields.io/badge/AFTER_EFFECTS-VFX?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=ffffff&color=1a1a1a" />
-  <img src="https://img.shields.io/badge/POWER_BI-ANALYTICS?style=for-the-badge&logo=powerbi&logoColor=ffffff&color=1a1a1a" />
+  <!-- DESIGN (Black/Purple Accent) -->
+  <img src="https://img.shields.io/badge/BLENDER-3D?style=for-the-badge&logo=blender&logoColor=ffffff&color=1a0033" />
+  <img src="https://img.shields.io/badge/PHOTOSHOP-EDIT?style=for-the-badge&logo=adobe%20photoshop&logoColor=ffffff&color=1a0033" />
+  <img src="https://img.shields.io/badge/AFTER_EFFECTS-VFX?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=ffffff&color=1a0033" />
+  <img src="https://img.shields.io/badge/POWER_BI-ANALYTICS?style=for-the-badge&logo=powerbi&logoColor=ffffff&color=1a0033" />
 
 </div>
 
