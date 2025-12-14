@@ -1,87 +1,81 @@
-<!-- HEADER BANNER (STATIC BLACK RECTANGLE) -->
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=180&section=header&text=ANANDA%20HARIADI&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=45&desc=Fullstack%20Dev%20%7C%20Robotics%20Research%20%7C%20Cyber%20Security&descSize=16&descColor=ffffff&descAlignY=70" width="100%" style="border-radius: 10px;" />
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
-<!-- VISUAL GERAK (MOVING PART) -->
-<!-- Ini memberikan efek coding berjalan agar tidak kaku -->
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=000000&background=00000000&center=false&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+Welcome+to+my+profile.;System.init(%22Robotics_+AI_+CyberSec%22);Current+Status:+Building+Future+Tech...;Let's+Collaborate!+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+###
+
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D5603AQHBA5G6FTyl-A/profile-displayphoto-scale_400_400/B56ZsXQNMfG8Ag-/0/1765621683781?e=1767225600&v=beta&t=bUup_YcoQFTEk85gHoQTWXX1j1RHpGcFr2NVHgcMAaE"  />
 </div>
 
-<br>
+###
 
-<!-- INTRO TEXT (LAYOUT RATA KIRI SEPERTI GAMBAR) -->
-Hello! 👋 My name is **Ananda Hariadi**. I am from Indonesia 🇮🇩 taking a deep dive into **Robotics & Cyber Security**.
+<p align="center">Cyber Security | Fullstack Dev | Robotics<br>Building secure, scalable apps & exploring tech for resilience.</p>
 
-I have a huge interest in **Autonomous Systems** 🤖 as well as **Ethical Hacking** 🔐! Currently studying **Deep Learning** for robotics control and creating secure web applications.
+###
 
-I am also a **Business Funding Recipient** and love to join different communities that involve creating innovations for society! 🚀
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=true&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=28&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-<br>
+###
 
-<!-- TOOLS SECTION (LAYOUT SEPERTI GAMBAR) -->
-<!-- Icon dibuat flat-square (kotak tipis) dan dikelompokkan -->
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-**Languages:**  
-<img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=00ff41" />
+###
 
-**Web & Frameworks:**  
-<img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=00ff41" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anandahariadi.anandahariadi&"  />
+</div>
 
-**Robotics & Cloud:**  
-<img src="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/-Arduino-000000?style=flat-square&logo=arduino&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/-Google_Cloud-000000?style=flat-square&logo=google-cloud&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/-Oracle-000000?style=flat-square&logo=oracle&logoColor=00ff41" />
+###
 
-**Creative Tools:**  
-<img src="https://img.shields.io/badge/-Blender-000000?style=flat-square&logo=blender&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/-Photoshop-000000?style=flat-square&logo=adobe%20photoshop&logoColor=00ff41" />
-
-<br>
-<br>
-
-<!-- BULLET POINTS (PERSIS SEPERTI GAMBAR) -->
-*   🔭 I’m currently working on **Advanced Robotics Navigation Systems**.
-*   🌱 I’m currently learning **Quantum Computing & Penetration Testing**.
-*   💼 Open for collaboration on **AI & Web Security Projects**.
-*   ⚡ Fun fact: **I speak to robots more than I speak to humans.**
-
-<br>
-
-<!-- VISUAL GERAK: SNAKE ANIMATION -->
-<!-- Ini agar ada visual lain yang bergerak selain teks di atas -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnandaHariadi/AnandaHariadi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnandaHariadi/AnandaHariadi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnandaHariadi/AnandaHariadi/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anandahariadi/anandahariadi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anandahariadi/anandahariadi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anandahariadi/anandahariadi/output/pacman-contribution-graph.svg">
 </picture>
 
-<br>
-<br>
+###
 
-<!-- SOCIALS (BIG ICONS AT BOTTOM - SEPERTI GAMBAR) -->
 <div align="left">
-  <a href="https://github.com/AnandaHariadi" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00ff41" target="_blank" />
-  </a>
-  <a href="https://linkedin.com/in/AnandaHariadi" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ff41" target="_blank" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=00ff41" target="_blank" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=00ff41" target="_blank" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
+
+###
