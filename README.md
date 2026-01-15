@@ -11,15 +11,6 @@ I am an Informatics student at UPN Veteran Jawa Timur, passionate about building
   <img src="https://skillicons.dev/icons?i=js,react,php,laravel,flutter,mysql,cpp,python,linux,git,figma,vscode" />
 </p>
 
-### 📊 My Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anandahariadi/anandahariadi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anandahariadi/anandahariadi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anandahariadi/anandahariadi/output/pacman-contribution-graph.svg">
-</picture>
-
-<img src="https://raw.githubusercontent.com/anandahariadi/anandahariadi/output/snake.svg" alt="Snake animation" />
-
 ### 🤝 Let's Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/anandahariadi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
