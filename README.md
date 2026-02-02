@@ -1,6 +1,6 @@
 # Hi, I'm Ananda Hariadi 👋
 
-### Fullstack Developer & Cyber Security Enthusiast
+###  Software Engineer & Cyber Security Enthusiast
 
 I am an Informatics student at UPN Veteran Jawa Timur, passionate about building secure and scalable digital solutions. Currently, I work as a Fullstack Developer while actively deepening my expertise in Cyber Security to build more resilient systems. My technical journey also extends to robotics as a programmer for KRSBI Beroda Nakula and leadership as the ceo Elvanor parfume startup, where I bridge the gap between innovative technology, security, and impactful business growth.
 
