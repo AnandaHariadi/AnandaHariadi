@@ -1,6 +1,6 @@
 # Hi, I'm Ananda Hariadi 👋
 
-###  Software Engineer & Cyber Security Enthusiast
+###  Software Engineer & System Analyst
 
 I am an Informatics student at UPN Veteran Jawa Timur, passionate about building secure and scalable digital solutions. Currently, I work as a Software Engineer while actively deepening my expertise in Cyber Security to build more resilient systems. My technical journey also extends to robotics as a programmer for KRSBI Beroda Nakula, where I bridge the gap between innovative technology, security, and impactful business growth.
 
