@@ -5,7 +5,7 @@
 Inna Fatahna Laka Fatham Mubina
 
 
-I am an Informatics student at UPN Veteran Jawa Timur, passionate about building secure and scalable digital solutions. Currently, I work as a Software Engineer while actively deepening my expertise in Cyber Security to build more resilient systems. My technical journey also extends to robotics as a programmer for KRSBI Beroda Nakula, where I bridge the gap between innovative technology, security, and impactful business growth.
+I am an Informatics student at UPN Veteran Jawa Timur, focusing on Software Engineering, UI/UX Design, and System Analysis. My academic and professional journey emphasizes building secure, scalable, and user-centered digital solutions. As a Graphic and UI/UX Designer, I translate complex systems into intuitive experiences, while my role as a System Analyst strengthens the integration between technology and strategic business outcomes. Recognized as a Business Funding Recipient, I continue to drive projects that merge innovation, design, and entrepreneurship delivering impactful growth and sustainable digital transformation.
 
 ---
 
