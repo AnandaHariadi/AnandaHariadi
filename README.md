@@ -5,7 +5,7 @@
 Inna Fatahna Laka Fatham Mubina
 
 
-I am an Informatics student at UPN Veteran Jawa Timur, focusing on Software Engineering, UI/UX Design, and System Analysis. My academic and professional journey emphasizes building secure, scalable, and user-centered digital solutions. As a Graphic and UI/UX Designer, I translate complex systems into intuitive experiences, while my role as a System Analyst strengthens the integration between technology and strategic business outcomes. Recognized as a Business Funding Recipient, I continue to drive projects that merge innovation, design, and entrepreneurship delivering impactful growth and sustainable digital transformation.
+I am an Informatics student at UPN Veteran Jawa Timur, focusing on Software Engineering, UI/UX Design, and System Analyst. My academic and professional journey emphasizes building secure, scalable, and user-centered digital solutions. As a Graphic and UI/UX Designer, I translate complex systems into intuitive experiences, while my role as a System Analyst strengthens the integration between technology and strategic business outcomes. Recognized as a Business Funding Recipient, I continue to drive projects that merge innovation, design, and entrepreneurship delivering impactful growth and sustainable digital transformation.
 
 ---
 
