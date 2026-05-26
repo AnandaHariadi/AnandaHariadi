@@ -32,38 +32,38 @@ With a strong interest in creating seamless user experiences, I actively work as
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,php,laravel,flutter,dart,tailwind,mysql,postgresql,python,cpp,figma,git,linux,vscode&perline=9" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,php,laravel,tailwind,mysql,postgresql,python,cpp,figma,git,linux,vscode&perline=8" alt="My Skills"/>
   </a>
 </p>
 
 ---
 
-### Currently Learning & Exploring
+### Tech Stack Expansion & Research
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="50%" valign="top" bgcolor="#0D1117" style="border: 1px solid #21262D; border-radius: 6px;">
-      <h4>Architecture & Backend</h4>
-      Focusing on advanced <b>Laravel</b> ecosystem, scalable backend architecture, deep system analysis execution, and structural database optimization to handle complex, high-throughput data layers.
+      <h4>Architecture & Current Focus</h4>
+      Deepening expertise in the advanced <b>Laravel</b> ecosystem, scalable backend structures, system analysis execution, data normalization, and query performance optimization inside relational databases.
     </td>
     <td width="50%" valign="top" bgcolor="#0D1117" style="border: 1px solid #21262D; border-radius: 6px;">
-      <h4>Frontend & Experience</h4>
-      Exploring modern frontend development with <b>Next.js</b>, multi-platform mobile application development using <b>Flutter</b>, and structuring comprehensive UI/UX design systems rooted in design thinking methodology.
+      <h4>Frontend & Experience Operations</h4>
+      Compiling fast, modern web applications utilizing <b>Next.js</b> for optimized server-side rendering, deterministic state management, and crafting comprehensive design systems inside Figma.
     </td>
   </tr>
 </table>
 
 ---
 
-### Sovereign Operational Matrix
+### Future Tech Roadmap
 
 ```mermaid
 graph LR
-    A[📷 AI Vision Inference] ---> B[⚙️ Core Engine Processing]
-    B ---> C[⚡ RESTful API Gateway]
-    C ---> D[📊 Reactive Dashboard UI]
+    A[🎯 Next Horizon] ---> B[🐹 Go / Golang]
+    B ---> C[⚡ High-Performance Microservices]
+    C ---> D[🚀 Cloud-Native Backend Integration]
 
     style A fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
-    style B fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
+    style B fill:#0D1117,stroke:#00ADD8,stroke-width:2px,color:#FFFFFF
     style C fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
     style D fill:#0D1117,stroke:#10B981,stroke-width:2px,color:#FFFFFF
