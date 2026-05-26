@@ -53,16 +53,6 @@ With a strong interest in creating seamless user experiences, I actively work as
   </tr>
 </table>
 
----
-
-### Future Tech Roadmap
-
-```mermaid
-graph LR
-    A[🎯 Next Horizon] ---> B[🐹 Go / Golang]
-    B ---> C[⚡ High-Performance Microservices]
-    C ---> D[🚀 Cloud-Native Backend Integration]
-
     style A fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
     style B fill:#0D1117,stroke:#00ADD8,stroke-width:2px,color:#FFFFFF
     style C fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
