@@ -1,37 +1,34 @@
 <div align="center">
-  <!-- Engine Telemetry Pulse -->
-  <img src="https://komarev.com/ghpvc/?username=anandahariadi&label=System%20Throughput&color=7C3AED&style=flat-square" alt="Profile Views"/>
+  <!-- Profile Views Badge - Minimalist Purple -->
+  <img src="https://komarev.com/ghpvc/?username=anandahariadi&label=System%20Pulse&color=7C3AED&style=flat-square" alt="Profile Views"/>
+
+  <br><br>
+
+  <!-- Premium Corporate Waving Banner -->
+  <img src="https://capsule-render.vercel.app/v3/api/image?type=waving&color=auto&height=200&section=header&text=HI,%20I'M%20ANANDA%20HARIADI&fontSize=44&fontAlign=50&fontAlignY=45&theme=dark" width="100%" alt="Header Banner" />
 
   <br>
 
-  <!-- Interactive Fluid Gradient Header -->
-  <img src="https://capsule-render.vercel.app/v3/api/image?type=waving&color=auto&height=240&section=header&text=HI,%20I%20AM%20ANANDA%20HARIADI&fontSize=44&fontAlign=50&fontAlignY=40&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
+  <h3>Software Engineer &nbsp;&middot;&nbsp; UI/UX Designer &nbsp;&middot;&nbsp; System Analyst</h3>
+  
+  <p><code>Inna Fatahna Laka Fatham Mubina</code></p>
 
-  <!-- Kinetic Typography Interface -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=SOFTWARE+ENGINEER;SYSTEM+ANALYST;UI%2FUX+DESIGNER;FULLSTACK+DEVELOPER" alt="Typing Effect" />
-  </a>
+  <p><em>Crafting clean code and elegant digital experiences.</em></p>
 
-  <p align="center">
-    <code>Inna Fatahna Laka Fatham Mubina</code>
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Pipeline-Optimized%20Backend%20%7C%20High%20Fidelity%20Frontend-via_gradient?style=flat-square&color=7C3AED" alt="Tagline"/>
-  </p>
+  <br>
 </div>
 
 ---
 
-### Executive Profile & System Manifesto
+### Professional Overview
 
-I am an **Informatics** student at **UPN Veteran Jawa Timur** operating at the systemic intersection of robust backend enterprise architecture, rigorous structural data analysis, and highly refined user experience design systems. My methodology treats application development not merely as writing functional syntax, but as building scalable, high-throughput engines engineered deliberately to capture real business metrics, eliminate system friction, and maximize transaction conversion. 
+I'm an **Informatics** student at **UPN Veteran Jawa Timur**. I'm passionate about building high-quality digital solutions through **Software Engineering**, **UI/UX Design**, and **System Analysis**. I believe great software should not only work perfectly but also feel intuitive and visually appealing.
 
-As a recognized **Business Funding Recipient**, I bridge the gap between hard engineering constraints and market-driven commercial value, executing end-to-end fullstack strategies that translate complex, raw client requirements into production-ready web and mobile infrastructures.
+With a strong interest in creating seamless user experiences, I actively work as a Graphic & UI/UX Designer. Recently, I was honored as a **Business Funding Recipient**, which pushed me to develop impactful projects that combine technology, design, and business value.
 
 ---
 
-### Technology Matrix & Core Ecosystem
+### Core Technology Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,33 +38,33 @@ As a recognized **Business Funding Recipient**, I bridge the gap between hard en
 
 ---
 
-### Structural Specialization & Core Competencies
+### Currently Learning & Exploring
 
-<table width="100%">
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
-      <h4>Backend Architecture & Telemetry</h4>
-      I specialize in architecting highly maintainable, enterprise-grade application environments inside Advanced Laravel, designing custom middleware layers, isolating complex business processes through dedicated service structures, and implementing bulletproof security standards across custom RESTful API networks. On the data layer, I handle rigorous relational database modeling, deep query performance optimization, intentional data normalization, and strategic indexing to guarantee low latency under heavy infrastructure strain.
+    <td width="50%" valign="top" bgcolor="#0D1117" style="border: 1px solid #21262D; border-radius: 6px;">
+      <h4>Architecture & Backend</h4>
+      Focusing on advanced <b>Laravel</b> ecosystem, scalable backend architecture, deep system analysis execution, and structural database optimization to handle complex, high-throughput data layers.
     </td>
-    <td width="50%" valign="top">
-      <h4>Frontend Engineering & Experience Operations</h4>
-      I compile modern, fast web applications leveraging Next.js to take full advantage of server-side rendering execution, static generation lifecycles, dynamic routing protocols, and pristine Core Web Vitals optimization. For mobile runtime environments, I engineer performant, cross-platform applications via Flutter, writing predictable asynchronous operations and deterministic state machines. This is backed by strict DesignOps principles, translating advanced design systems from Figma into clean reusable code components.
+    <td width="50%" valign="top" bgcolor="#0D1117" style="border: 1px solid #21262D; border-radius: 6px;">
+      <h4>Frontend & Experience</h4>
+      Exploring modern frontend development with <b>Next.js</b>, multi-platform mobile application development using <b>Flutter</b>, and structuring comprehensive UI/UX design systems rooted in design thinking methodology.
     </td>
   </tr>
 </table>
 
 ---
 
-### Production Deployment Flow
+### Technical Pipeline
 
 ```mermaid
 graph LR
-    A[Functional Specifications] --> B[Data Flow Schema Design]
+    A[Functional Specs] --> B[Data Schema Modeling]
     B --> C[Asynchronous Backend Construction]
-    C --> D[Component-Driven Frontend Compiling]
+    C --> D[Interface Component Compilation]
     D --> E[End-to-End System Evaluation]
-    style A fill:#1A1B26,stroke:#7C3AED,stroke-width:2px,color:#C0CAF5
-    style B fill:#1A1B26,stroke:#3B82F6,stroke-width:2px,color:#C0CAF5
-    style C fill:#1A1B26,stroke:#34D399,stroke-width:2px,color:#C0CAF5
-    style D fill:#1A1B26,stroke:#E91E63,stroke-width:2px,color:#C0CAF5
-    style E fill:#1A1B26,stroke:#FF9E00,stroke-width:2px,color:#C0CAF5
+    style A fill:#0D1117,stroke:#4F46E5,stroke-width:1px,color:#C9D1D9
+    style B fill:#0D1117,stroke:#4F46E5,stroke-width:1px,color:#C9D1D9
+    style C fill:#0D1117,stroke:#4F46E5,stroke-width:1px,color:#C9D1D9
+    style D fill:#0D1117,stroke:#4F46E5,stroke-width:1px,color:#C9D1D9
+    style E fill:#0D1117,stroke:#10B981,stroke-width:1px,color:#C9D1D9
