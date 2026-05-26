@@ -4,8 +4,44 @@
 
   <br><br>
 
-  <!-- Premium Corporate Waving Banner -->
-  <img src="https://capsule-render.vercel.app/v3/api/image?type=waving&color=auto&height=200&section=header&text=HI,%20I'M%20ANANDA%20HARIADI&fontSize=44&fontAlign=50&fontAlignY=45&theme=dark" width="100%" alt="Header Banner" />
+  <!-- Premium Smooth Animated Text (No Laggy Third-Party Fonts) -->
+  <svg viewBox="0 0 850 100" width="85%" height="100">
+    <style>
+      .name-text {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-size: 42px;
+        font-weight: 900;
+        letter-spacing: 3px;
+        fill: none;
+        stroke: url(#gradient);
+        stroke-width: 1.5px;
+        stroke-dasharray: 600;
+        stroke-dashoffset: 600;
+        animation: draw 3.5s ease-in-out infinite alternate;
+      }
+      @keyframes draw {
+        0% {
+          stroke-dashoffset: 600;
+          fill: transparent;
+        }
+        70% {
+          fill: transparent;
+        }
+        100% {
+          stroke-dashoffset: 0;
+          fill: url(#gradient);
+        }
+      }
+    </style>
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#7C3AED" />
+        <stop offset="50%" stop-color="#3B82F6" />
+        <stop offset="100%" stop-color="#10B981" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="60%" text-anchor="middle" class="name-text">HI, I'M ANANDA HARIADI</text>
+  </svg>
 
   <br>
 
