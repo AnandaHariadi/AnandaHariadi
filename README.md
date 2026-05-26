@@ -1,11 +1,12 @@
 <div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=anandahariadi&label=System%20Pulse&color=7C3AED&style=flat-square" alt="Profile Views"/>
+  <!-- Profile Views Badge - Premium Orange -->
+  <img src="https://komarev.com/ghpvc/?username=anandahariadi&label=System%20Pulse&color=F97316&style=flat-square" alt="Profile Views"/>
 
   <br><br>
 
+  <!-- Animated Name Header using Inter Bold Font with Orange Color -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=38&letterSpacing=3px&color=7C3AED&background=00000000&center=true&vCenter=true&width=700&height=90&lines=HI,+I'M+ANANDA+HARIADI" alt="Animated Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=38&letterSpacing=3px&color=F97316&background=00000000&center=true&vCenter=true&width=700&height=90&lines=HI,+I'M+ANANDA+HARIADI" alt="Animated Name" />
   </a>
 
   <h3>Software Engineer &nbsp;&middot;&nbsp; UI/UX Designer &nbsp;&middot;&nbsp; System Analyst</h3>
@@ -62,8 +63,8 @@ graph LR
     B --> C[Asynchronous Backend Construction]
     C --> D[Interface Component Compilation]
     D --> E[End-to-End System Evaluation]
-    style A fill:#0D1117,stroke:#4F46E5,stroke-width:1px,color:#C9D1D9
-    style B fill:#0D1117,stroke:#4F46E5,stroke-width:1px,color:#C9D1D9
-    style C fill:#0D1117,stroke:#4F46E5,stroke-width:1px,color:#C9D1D9
-    style D fill:#0D1117,stroke:#4F46E5,stroke-width:1px,color:#C9D1D9
+    style A fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
+    style B fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
+    style C fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
+    style D fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
     style E fill:#0D1117,stroke:#10B981,stroke-width:1px,color:#C9D1D9
