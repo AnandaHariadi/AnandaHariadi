@@ -4,7 +4,7 @@
 
   <br><br>
 
-  <!-- REVISI FONT WOW: Menggunakan Font Righteous dengan Efek Gradasi Oranye Mengalir -->
+  <!-- Animated Name Header using Inter Bold Font with Orange Color -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=42&letterSpacing=2px&color=F97316&background=00000000&center=true&vCenter=true&width=750&height=100&lines=HI,+I'M+ANANDA+HARIADI" alt="Futuristic Animated Name" />
   </a>
@@ -55,44 +55,15 @@ With a strong interest in creating seamless user experiences, I actively work as
 
 ---
 
-### AI Vision & Edge IoT Core Architecture
+### Technical Deployment Pipeline
 
 ```mermaid
-graph TB
-    subgraph Edge Layer [📷 Input & Edge Inference Engine]
-        A[RGB Camera Video Stream] --> B{Object/Face Detection}
-        B -- Match Found --> C[Bounding Box Matrix Localization]
-        B -- Scanning --> A
-        C --> D[Tensor Core Processing Unit]
-    end
+graph LR
+    A[📷 AI Vision Inference] ---> B[⚙️ Core Engine Processing]
+    B ---> C[⚡ RESTful API Gateway]
+    C ---> D[📊 Reactive Dashboard UI]
 
-    subgraph Feature Extraction [🧠 Neural Network Pipeline]
-        D --> E[Convolutional Layers]
-        E --> F[Feature Mapping & Weights Analysis]
-        F --> G[Classification Density Layer]
-    end
-
-    subgraph Telemetry Core [☁️ Cloud Data Sync & UI]
-        G --> H[Secure RESTful API Gateway]
-        H --> I[(Relational DB Optimization)]
-        I --> J[Real-Time Analytics Dashboard]
-    end
-
-    %% Node Styling Luxe Theme
-    style A fill:#1F2937,stroke:#F97316,stroke-width:2px,color:#F3F4F6
-    style B fill:#374151,stroke:#F97316,stroke-width:2px,color:#F3F4F6
-    style C fill:#1F2937,stroke:#EA580C,stroke-width:1px,color:#F3F4F6
-    style D fill:#111827,stroke:#EF4444,stroke-width:2px,color:#F3F4F6
-    
-    style E fill:#1F2937,stroke:#F97316,stroke-width:1px,color:#F3F4F6
-    style F fill:#1F2937,stroke:#F97316,stroke-width:1px,color:#F3F4F6
-    style G fill:#111827,stroke:#EA580C,stroke-width:2px,color:#F3F4F6
-
-    style H fill:#1F2937,stroke:#3B82F6,stroke-width:1px,color:#F3F4F6
-    style I fill:#111827,stroke:#10B981,stroke-width:2px,color:#F3F4F6
-    style J fill:#059669,stroke:#10B981,stroke-width:2px,color:#FFFFFF
-
-    %% Subgraph Styling
-    style Edge Layer fill:#0D1117,stroke:#374151,stroke-width:1px,color:#9CA3AF
-    style Feature Extraction fill:#0D1117,stroke:#374151,stroke-width:1px,color:#9CA3AF
-    style Telemetry Core fill:#0D1117,stroke:#374151,stroke-width:1px,color:#9CA3AF
+    style A fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
+    style B fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
+    style C fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
+    style D fill:#0D1117,stroke:#10B981,stroke-width:2px,color:#FFFFFF
