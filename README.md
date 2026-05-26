@@ -1,69 +1,79 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anandahariadi&label=Profile%20Views&color=64748B&style=flat-square" alt="Profile Views"/>
-  
-  <h1>Hi, I'm Ananda Hariadi 👋</h1>
-  
-  <h3>Software Engineer & System Analyst</h3>
-  <p><em>Inna Fatahna Laka Fatham Mubina</em></p>
-</div>
+  <!-- Profile Views Badge with Gradient Style -->
+  <img src="https://komarev.com/ghpvc/?username=anandahariadi&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
 
-<br>
+  <!-- Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/v3/api/image?type=waving&color=auto&height=220&section=header&text=Ananda%20Hariadi&fontSize=46&animation=twinkling&theme=dark" alt="Header Banner" />
 
-<div align="center">
-  <i>Crafting clean code and elegant digital experiences.</i>
+  <br>
+
+  <!-- Continuous Typing Animation Loop -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer;System+Analyst;UI%2FUX+Designer;Fullstack+Developer" alt="Typing Effect" />
+  </a>
+
+  <p><em>"Inna Fatahna Laka Fatham Mubina"</em></p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Crafting%20clean%20code%20-%20%26%20elegant%20digital%20experiences.-via_gradient?style=flat-square&color=3B82F6" alt="Tagline"/>
+  </p>
 </div>
 
 ---
 
-I'm an **Informatics** student at **UPN Veteran Jawa Timur**. 
+### About Me
 
-I'm passionate about building high-quality digital solutions through **Software Engineering**, **UI/UX Design**, and **System Analysis**. I believe great software should not only work perfectly but also feel intuitive and visually appealing.
+I'm an **Informatics** student at **UPN Veteran Jawa Timur**, passionate about bridging the gap between robust code and stunning user experiences. 
 
-With a strong interest in creating seamless user experiences, I actively work as a Graphic & UI/UX Designer. Recently, I was honored as a **Business Funding Recipient**, which pushed me to develop impactful projects that combine technology, design, and business value.
+*   **Core Competencies:** Build high-quality digital solutions through **Software Engineering**, **UI/UX Design**, and **System Analysis**.
+*   **Design Philosophy:** I believe great software should not only work flawlessly under the hood but also feel intuitive and visually captivating.
+*   **Recent Milestones:** Honored as a **Business Funding Recipient**, which fuels my drive to develop impactful projects combining technology, design, and commercial value.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack & Ecosystem
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,php,laravel,flutter,dart,tailwind,mysql,postgresql,python,cpp,figma,git,linux,vscode&perline=11" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,php,laravel,flutter,dart,tailwind,mysql,postgresql,python,cpp,figma,git,linux,vscode&perline=9" alt="My Skills"/>
+  </a>
 </p>
 
 ---
 
-### 🌱 Currently Learning & Exploring
+### Engineering & Design Focus
 
-- Advanced **Laravel** & Backend Architecture  
-- **Next.js** & Modern Frontend Development  
-- UI/UX Design Systems & Design Thinking  
-- Mobile Development with **Flutter**  
-- System Analysis & Database Optimization  
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Architecture & Backend</h4>
+      <ul>
+        <li>Advanced <b>Laravel</b> Framework Exploration</li>
+        <li>System Analysis & Requirements Engineering</li>
+        <li>Database Optimization & Structure Design</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Frontend & Experience</h4>
+      <ul>
+        <li><b>Next.js</b> & Modern Component Architectures</li>
+        <li>Cross-Platform Mobile Apps via <b>Flutter</b></li>
+        <li>UI/UX Design Systems & High-Fidelity Prototyping</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Statistics
+### Featured Frameworks & Methodology
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandahariadi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="190" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandahariadi&layout=compact&theme=radical&hide_border=true&langs_count=10" height="190" alt="Top Languages"/>
-</div>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anandahariadi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/nandahariadii">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:nandahariadi88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api/wordclouds?text=Code%20%7C%20Design%20%7C%20Elegance%20%7C%20Innovation&width=720&height=65&color=7C3AED&background=1E2937&fontColor=ffffff" alt="footer"/>
-</div>
+```mermaid
+graph LR
+    A[Analysis & Design] --> B[Robust Backend Architecture]
+    B --> C[Seamless Frontend Deployment]
+    C --> D[Intuitive User Experience]
+    style A fill:#1E1E2E,stroke:#A78BFA,stroke-width:2px,color:#FFF
+    style B fill:#1E1E2E,stroke:#3B82F6,stroke-width:2px,color:#FFF
+    style C fill:#1E1E2E,stroke:#34D399,stroke-width:2px,color:#FFF
+    style D fill:#1E1E2E,stroke:#F43F5E,stroke-width:2px,color:#FFF
