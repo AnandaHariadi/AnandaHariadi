@@ -4,9 +4,9 @@
 
   <br><br>
 
-  <!-- Animated Name Header using Righteous Font with Orange Color -->
+  <!-- REVISI FONT SUPER BOLD: Menggunakan Montserrat Heavy Black 900 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=42&letterSpacing=2px&color=F97316&background=00000000&center=true&vCenter=true&width=750&height=100&lines=HI,+I'M+ANANDA+HARIADI" alt="Futuristic Animated Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=44&letterSpacing=1px&color=F97316&background=00000000&center=true&vCenter=true&width=800&height=100&lines=HI,+I'M+ANANDA+HARIADI" alt="Super Bold Animated Name" />
   </a>
 
   <h3>Software Engineer &nbsp;&middot;&nbsp; UI/UX Designer &nbsp;&middot;&nbsp; System Analyst</h3>
