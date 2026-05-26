@@ -4,7 +4,7 @@
 
   <br><br>
 
-  <!-- Animated Name Header using Inter Bold Font with Orange Color -->
+  <!-- Animated Name Header using Righteous Font with Orange Color -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=42&letterSpacing=2px&color=F97316&background=00000000&center=true&vCenter=true&width=750&height=100&lines=HI,+I'M+ANANDA+HARIADI" alt="Futuristic Animated Name" />
   </a>
@@ -55,7 +55,7 @@ With a strong interest in creating seamless user experiences, I actively work as
 
 ---
 
-### Technical Deployment Pipeline
+### Sovereign Operational Matrix
 
 ```mermaid
 graph LR
