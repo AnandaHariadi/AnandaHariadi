@@ -53,7 +53,4 @@ With a strong interest in creating seamless user experiences, I actively work as
   </tr>
 </table>
 
-    style A fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
-    style B fill:#0D1117,stroke:#00ADD8,stroke-width:2px,color:#FFFFFF
-    style C fill:#0D1117,stroke:#F97316,stroke-width:1px,color:#C9D1D9
-    style D fill:#0D1117,stroke:#10B981,stroke-width:2px,color:#FFFFFF
+    
