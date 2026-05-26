@@ -1,49 +1,12 @@
 <div align="center">
-  <!-- Profile Views Badge - Minimalist Purple -->
+  
   <img src="https://komarev.com/ghpvc/?username=anandahariadi&label=System%20Pulse&color=7C3AED&style=flat-square" alt="Profile Views"/>
 
   <br><br>
 
-  <!-- Premium Smooth Animated Text (No Laggy Third-Party Fonts) -->
-  <svg viewBox="0 0 850 100" width="85%" height="100">
-    <style>
-      .name-text {
-        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-        font-size: 42px;
-        font-weight: 900;
-        letter-spacing: 3px;
-        fill: none;
-        stroke: url(#gradient);
-        stroke-width: 1.5px;
-        stroke-dasharray: 600;
-        stroke-dashoffset: 600;
-        animation: draw 3.5s ease-in-out infinite alternate;
-      }
-      @keyframes draw {
-        0% {
-          stroke-dashoffset: 600;
-          fill: transparent;
-        }
-        70% {
-          fill: transparent;
-        }
-        100% {
-          stroke-dashoffset: 0;
-          fill: url(#gradient);
-        }
-      }
-    </style>
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#7C3AED" />
-        <stop offset="50%" stop-color="#3B82F6" />
-        <stop offset="100%" stop-color="#10B981" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="60%" text-anchor="middle" class="name-text">HI, I'M ANANDA HARIADI</text>
-  </svg>
-
-  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=38&letterSpacing=3px&color=7C3AED&background=00000000&center=true&vCenter=true&width=700&height=90&lines=HI,+I'M+ANANDA+HARIADI" alt="Animated Name" />
+  </a>
 
   <h3>Software Engineer &nbsp;&middot;&nbsp; UI/UX Designer &nbsp;&middot;&nbsp; System Analyst</h3>
   
