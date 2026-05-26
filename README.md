@@ -1,15 +1,15 @@
 <div align="center">
-  <!-- Profile Views Elegant Minimalist -->
-  <img src="https://komarev.com/ghpvc/?username=anandahariadi&label=Engine%20Pulse&color=7C3AED&style=flat-square" alt="Profile Views"/>
-  
+  <!-- Engine Telemetry Pulse -->
+  <img src="https://komarev.com/ghpvc/?username=anandahariadi&label=System%20Throughput&color=7C3AED&style=flat-square" alt="Profile Views"/>
+
   <br>
 
-  <!-- Premium Neon Gradient Wave Header -->
-  <img src="https://capsule-render.vercel.app/v3/api/image?type=waving&color=7C3AED&height=240&section=header&text=HI,%20I%20AM%20ANANDA%20HARIADI&fontSize=48&fontAlign=50&fontAlignY=43&animation=fadeIn&theme=dark" width="100%" alt="Header Banner" />
+  <!-- Interactive Fluid Gradient Header -->
+  <img src="https://capsule-render.vercel.app/v3/api/image?type=waving&color=auto&height=240&section=header&text=HI,%20I%20AM%20ANANDA%20HARIADI&fontSize=44&fontAlign=50&fontAlignY=40&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
 
-  <!-- High-Speed Dynamic Typing Core Role Architecture -->
+  <!-- Kinetic Typography Interface -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=800&color=34D399&center=true&vCenter=true&width=650&lines=SOFTWARE+ENGINEER;SYSTEM+ANALYST;UI%2FUX+DESIGNER;FULLSTACK+DEVELOPER" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=SOFTWARE+ENGINEER;SYSTEM+ANALYST;UI%2FUX+DESIGNER;FULLSTACK+DEVELOPER" alt="Typing Effect" />
   </a>
 
   <p align="center">
@@ -23,16 +23,15 @@
 
 ---
 
-### Professional Profile
+### Executive Profile & System Manifesto
 
-I am an **Informatics** specialist driven by the optimization of fullstack digital ecosystems. My practice focuses on engineering robust backend infrastructures, performing data-driven system analysis, and designing high-fidelity interfaces. I cross-examine user friction with structural system throughput to turn complex business definitions into high-performance web and mobile platforms.
+I am an **Informatics** student at **UPN Veteran Jawa Timur** operating at the systemic intersection of robust backend enterprise architecture, rigorous structural data analysis, and highly refined user experience design systems. My methodology treats application development not merely as writing functional syntax, but as building scalable, high-throughput engines engineered deliberately to capture real business metrics, eliminate system friction, and maximize transaction conversion. 
 
-*   **Architectural Engineering:** Formulating high-availability system designs, handling comprehensive entity relationships, and managing precise state logic.
-*   **Experience Operations:** Translating advanced operational metrics into scalable, low-latency client applications without compromising design fidelity.
+As a recognized **Business Funding Recipient**, I bridge the gap between hard engineering constraints and market-driven commercial value, executing end-to-end fullstack strategies that translate complex, raw client requirements into production-ready web and mobile infrastructures.
 
 ---
 
-### Specialized Technology Matrix
+### Technology Matrix & Core Ecosystem
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -42,36 +41,30 @@ I am an **Informatics** specialist driven by the optimization of fullstack digit
 
 ---
 
-### Architectural Core Focus
+### Structural Specialization & Core Competencies
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>Backend Systems & Telemetry</h4>
-      <ul>
-        <li><b>Framework Customization:</b> Enterprise-grade structures inside Laravel, complex middleware pipelines, and scalable microservices.</li>
-        <li><b>Data Layer Engineering:</b> Advanced relational queries, strategic normalization, index calibration, and query performance scaling.</li>
-      </ul>
+      <h4>Backend Architecture & Telemetry</h4>
+      I specialize in architecting highly maintainable, enterprise-grade application environments inside Advanced Laravel, designing custom middleware layers, isolating complex business processes through dedicated service structures, and implementing bulletproof security standards across custom RESTful API networks. On the data layer, I handle rigorous relational database modeling, deep query performance optimization, intentional data normalization, and strategic indexing to guarantee low latency under heavy infrastructure strain.
     </td>
     <td width="50%" valign="top">
-      <h4>Client Interface & Runtime Delivery</h4>
-      <ul>
-        <li><b>Next-Generation Web:</b> Highly optimized Next.js environments executing automated state synchronization and advanced rendering strategies.</li>
-        <li><b>Mobile Orchestration:</b> Multi-platform structural frameworks built on Flutter with bulletproof async operation management.</li>
-      </ul>
+      <h4>Frontend Engineering & Experience Operations</h4>
+      I compile modern, fast web applications leveraging Next.js to take full advantage of server-side rendering execution, static generation lifecycles, dynamic routing protocols, and pristine Core Web Vitals optimization. For mobile runtime environments, I engineer performant, cross-platform applications via Flutter, writing predictable asynchronous operations and deterministic state machines. This is backed by strict DesignOps principles, translating advanced design systems from Figma into clean reusable code components.
     </td>
   </tr>
 </table>
 
 ---
 
-### System Deployment Flow
+### Production Deployment Flow
 
 ```mermaid
 graph LR
-    A[Functional Specs] --> B[Data Schema Modeling]
+    A[Functional Specifications] --> B[Data Flow Schema Design]
     B --> C[Asynchronous Backend Construction]
-    C --> D[Interface Component Compilation]
+    C --> D[Component-Driven Frontend Compiling]
     D --> E[End-to-End System Evaluation]
     style A fill:#1A1B26,stroke:#7C3AED,stroke-width:2px,color:#C0CAF5
     style B fill:#1A1B26,stroke:#3B82F6,stroke-width:2px,color:#C0CAF5
