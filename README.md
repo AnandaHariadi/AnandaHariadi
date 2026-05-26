@@ -1,34 +1,38 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anandahariadi&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
-
-  <img src="https://capsule-render.vercel.app/v3/api/image?type=waving&color=auto&height=220&section=header&text=HI,%20I%20AM%20ANANDA%20HARIADI&fontSize=40&animation=twinkling&theme=dark" alt="Header Banner" />
-
+  <!-- Profile Views Elegant Minimalist -->
+  <img src="https://komarev.com/ghpvc/?username=anandahariadi&label=Engine%20Pulse&color=7C3AED&style=flat-square" alt="Profile Views"/>
+  
   <br>
 
+  <!-- Premium Neon Gradient Wave Header -->
+  <img src="https://capsule-render.vercel.app/v3/api/image?type=waving&color=7C3AED&height=240&section=header&text=HI,%20I%20AM%20ANANDA%20HARIADI&fontSize=48&fontAlign=50&fontAlignY=43&animation=fadeIn&theme=dark" width="100%" alt="Header Banner" />
+
+  <!-- High-Speed Dynamic Typing Core Role Architecture -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer;System+Analyst;UI%2FUX+Designer;Fullstack+Developer" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=800&color=34D399&center=true&vCenter=true&width=650&lines=SOFTWARE+ENGINEER;SYSTEM+ANALYST;UI%2FUX+DESIGNER;FULLSTACK+DEVELOPER" alt="Typing Effect" />
   </a>
 
-  <p><em>"Inna Fatahna Laka Fatham Mubina"</em></p>
+  <p align="center">
+    <code>Inna Fatahna Laka Fatham Mubina</code>
+  </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Crafting%20clean%20code%20-%20%26%20elegant%20digital%20experiences.-via_gradient?style=flat-square&color=3B82F6" alt="Tagline"/>
+    <img src="https://img.shields.io/badge/Pipeline-Optimized%20Backend%20%7C%20High%20Fidelity%20Frontend-via_gradient?style=flat-square&color=7C3AED" alt="Tagline"/>
   </p>
 </div>
 
 ---
 
-### Executive Summary
+### Professional Profile
 
-I am an **Informatics** student at **UPN Veteran Jawa Timur** operating at the intersection of robust backend engineering, data-driven system analysis, and user-centric interface design. My approach treats code not just as functional syntax, but as a scalable engine designed to drive real business value and seamless user conversion.
+I am an **Informatics** specialist driven by the optimization of fullstack digital ecosystems. My practice focuses on engineering robust backend infrastructures, performing data-driven system analysis, and designing high-fidelity interfaces. I cross-examine user friction with structural system throughput to turn complex business definitions into high-performance web and mobile platforms.
 
-*   **System Analysis & Architecture:** Translating complex business requirements into structured database designs, optimized API endpoints, and clean documentation.
-*   **Fullstack Engineering:** Deploying high-performance web and mobile ecosystems utilizing modern frameworks to ensure minimal latency and maximum scalability.
-*   **UI/UX & Innovation:** Bridging technical constraints with design systems. Recognized as a **Business Funding Recipient** for transforming conceptual products into viable, technology-driven ventures.
+*   **Architectural Engineering:** Formulating high-availability system designs, handling comprehensive entity relationships, and managing precise state logic.
+*   **Experience Operations:** Translating advanced operational metrics into scalable, low-latency client applications without compromising design fidelity.
 
 ---
 
-### Core Tech Stack & Ecosystem
+### Specialized Technology Matrix
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,24 +42,22 @@ I am an **Informatics** student at **UPN Veteran Jawa Timur** operating at the i
 
 ---
 
-### Engineering & Architectural Focus
+### Architectural Core Focus
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>Advanced Backend & System Design</h4>
+      <h4>Backend Systems & Telemetry</h4>
       <ul>
-        <li><b>Framework Architecture:</b> Deep diving into Advanced Laravel, MVC patterns, service layers, and secure RESTful API development.</li>
-        <li><b>Database Optimization:</b> Relational database modeling, query optimization, indexing, and structuring scalable data environments.</li>
-        <li><b>Systems Thinking:</b> Defining micro-interactions and strict state management across modern application architectures.</li>
+        <li><b>Framework Customization:</b> Enterprise-grade structures inside Laravel, complex middleware pipelines, and scalable microservices.</li>
+        <li><b>Data Layer Engineering:</b> Advanced relational queries, strategic normalization, index calibration, and query performance scaling.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>Frontend Engineering & Experience Design</h4>
+      <h4>Client Interface & Runtime Delivery</h4>
       <ul>
-        <li><b>Modern Web Web:</b> Leveraging Next.js for server-side rendering (SSR), static site generation, and optimized Core Web Vitals.</li>
-        <li><b>Cross-Platform Mobile:</b> Structuring native-performance mobile applications through Flutter and custom Dart state management.</li>
-        <li><b>Design Operations (DesignOps):</b> Crafting cohesive atomic UI design systems inside Figma to streamline developer handoff.</li>
+        <li><b>Next-Generation Web:</b> Highly optimized Next.js environments executing automated state synchronization and advanced rendering strategies.</li>
+        <li><b>Mobile Orchestration:</b> Multi-platform structural frameworks built on Flutter with bulletproof async operation management.</li>
       </ul>
     </td>
   </tr>
@@ -63,16 +65,16 @@ I am an **Informatics** student at **UPN Veteran Jawa Timur** operating at the i
 
 ---
 
-### Architectural Pipeline & Methodology
+### System Deployment Flow
 
 ```mermaid
 graph LR
-    A[Requirement Gathering] --> B[Data Flow & Schema Design]
-    B --> C[Optimized Backend Development]
-    C --> D[Component-Driven Frontend]
-    D --> E[Intuitive User Experience]
-    style A fill:#1E1E2E,stroke:#A78BFA,stroke-width:2px,color:#FFF
-    style B fill:#1E1E2E,stroke:#3B82F6,stroke-width:2px,color:#FFF
-    style C fill:#1E1E2E,stroke:#34D399,stroke-width:2px,color:#FFF
-    style D fill:#1E1E2E,stroke:#F59E0B,stroke-width:2px,color:#FFF
-    style E fill:#1E1E2E,stroke:#F43F5E,stroke-width:2px,color:#FFF
+    A[Functional Specs] --> B[Data Schema Modeling]
+    B --> C[Asynchronous Backend Construction]
+    C --> D[Interface Component Compilation]
+    D --> E[End-to-End System Evaluation]
+    style A fill:#1A1B26,stroke:#7C3AED,stroke-width:2px,color:#C0CAF5
+    style B fill:#1A1B26,stroke:#3B82F6,stroke-width:2px,color:#C0CAF5
+    style C fill:#1A1B26,stroke:#34D399,stroke-width:2px,color:#C0CAF5
+    style D fill:#1A1B26,stroke:#E91E63,stroke-width:2px,color:#C0CAF5
+    style E fill:#1A1B26,stroke:#FF9E00,stroke-width:2px,color:#C0CAF5
