@@ -1,30 +1,37 @@
 <div align="center">
-  <!-- Profile Views Badge - Premium Orange -->
-  <img src="https://komarev.com/ghpvc/?username=anandahariadi&label=System%20Pulse&color=F97316&style=flat-square" alt="Profile Views"/>
+  <!-- Profile Views -->
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=anandahariadi&label=PULSE&color=F97316&style=flat-square" alt="Profile Views"/>
+  </p>
 
-  <br><br>
+  <br />
 
-  <!-- REVISI FONT SUPER BOLD: Menggunakan Montserrat Heavy Black 900 -->
+  <!-- Animated Name -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=44&letterSpacing=1px&color=F97316&background=00000000&center=true&vCenter=true&width=800&height=100&lines=HI,+I'M+ANANDA+HARIADI" alt="Super Bold Animated Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&letterSpacing=2px&color=F97316&background=00000000&center=true&vCenter=true&width=600&height=70&lines=ANANDA+HARIADI" alt="Ananda Hariadi" />
   </a>
 
-  <h3>Software Engineer &nbsp;&middot;&nbsp; UI/UX Designer &nbsp;&middot;&nbsp; System Analyst</h3>
-  
-  <p><code>Inna Fatahna Laka Fatham Mubina</code></p>
+  <p align="center">
+    <strong>Software Engineer</strong> &nbsp;•&nbsp; 
+    <strong>UI/UX Designer</strong> &nbsp;•&nbsp; 
+    <strong>System Analyst</strong>
+  </p>
 
-  <p><em>Crafting clean code and elegant digital experiences.</em></p>
+  <p align="center" style="font-size: 11px; color: #8B949E; letter-spacing: 1px;">
+    <i>"Inna Fatahna Laka Fatham Mubina"</i>
+  </p>
 
-  <br>
+  <br />
 </div>
 
 ---
 
 ### Professional Overview
 
-I'm an **Informatics** student at **UPN Veteran Jawa Timur**. I'm passionate about building high-quality digital solutions through **Software Engineering**, **UI/UX Design**, and **System Analysis**. I believe great software should not only work perfectly but also feel intuitive and visually appealing.
+I am an Informatics student at UPN Veteran Jawa Timur, focusing on the intersection of Software Engineering, UI/UX Design, and System Analysis. I bridge the gap between robust backend logic and intuitive user experiences.
 
-With a strong interest in creating seamless user experiences, I actively work as a Graphic & UI/UX Designer. Recently, I was honored as a **Business Funding Recipient**, which pushed me to develop impactful projects that combine technology, design, and business value.
+* **Current Venture:** Business Funding Recipient, developing tech solutions with viable business value.
+* **Philosophy:** Great software should not only work flawlessly under the hood but also feel natural to the end user.
 
 ---
 
@@ -32,7 +39,7 @@ With a strong interest in creating seamless user experiences, I actively work as
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,php,laravel,tailwind,mysql,postgresql,python,cpp,figma,git,linux,vscode&perline=8" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,php,laravel,tailwind,mysql,postgresql,python,figma,git&theme=dark" alt="My Skills"/>
   </a>
 </p>
 
@@ -40,17 +47,8 @@ With a strong interest in creating seamless user experiences, I actively work as
 
 ### Tech Stack Expansion & Research
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top" bgcolor="#0D1117" style="border: 1px solid #21262D; border-radius: 6px;">
-      <h4>Architecture & Current Focus</h4>
-      Deepening expertise in the advanced <b>Laravel</b> ecosystem, scalable backend structures, system analysis execution, data normalization, and query performance optimization inside relational databases.
-    </td>
-    <td width="50%" valign="top" bgcolor="#0D1117" style="border: 1px solid #21262D; border-radius: 6px;">
-      <h4>Frontend & Experience Operations</h4>
-      Compiling fast, modern web applications utilizing <b>Next.js</b> for optimized server-side rendering, deterministic state management, and crafting comprehensive design systems inside Figma.
-    </td>
-  </tr>
-</table>
+**Architecture & Current Focus**
+Deepening expertise in the advanced Laravel ecosystem, scalable backend structures, system analysis execution, data normalization, and query performance optimization inside relational databases.
 
-    
+**Frontend & Experience Operations**
+Compiling fast, modern web applications utilizing Next.js for optimized server-side rendering, deterministic state management, and crafting comprehensive design systems inside Figma.
